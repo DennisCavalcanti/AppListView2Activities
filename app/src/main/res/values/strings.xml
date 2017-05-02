@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_dialog">Title</string>
+    <string name="name">Name</string>
+    <string name="phone">Phone</string>
+    <string name="btSave">Save</string>
+    <string name="btClose">Close</string>
+</resources>
